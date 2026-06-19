@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Ali",
+        "age": 25,
+        "course": "Python"
+    },
+    {
+        "id": "2",
+        "name": "Ahmed",
+        "age": 21,
+        "course": "Data Science"
+    },
+    {
+        "id": "3",
+        "name": "Hiba",
+        "age": 19,
+        "course": "Machine Learning"
+    },
+    {
+        "id": "4",
+        "name": "Hania",
+        "age": 19,
+        "course": "Machine Learning"
+    },
+    {
+        "id": "5",
+        "name": "Hassan",
+        "age": 25,
+        "course": "Python"
+    },
+    {
+        "id": "6",
+        "name": "Alia",
+        "age": 24,
+        "course": "Artificial Intelligence"
+    },
+    {
+        "id": "7",
+        "name": "Eman",
+        "age": 23,
+        "course": "Cyber Security"
+    },
+    {
+        "id": "8",
+        "name": "Zain",
+        "age": 24,
+        "course": "Data Analytics"
+    },
+    {
+        "id": "9",
+        "name": "Maryam",
+        "age": 19,
+        "course": "Python"
+    },
+    {
+        "id": "10",
+        "name": "Bilal",
+        "age": 22,
+        "course": "Cloud Computing"
+    },
+    {
+        "id": "11",
+        "name": "Nida",
+        "age": 23,
+        "course": "Machine Learning"
+    },
+    {
+        "id": "12",
+        "name": "Hamza",
+        "age": 20,
+        "course": "Data Science"
+    },
+    {
+        "id": "13",
+        "name": "Laraib",
+        "age": 19,
+        "course": "DSA"
+    },
+    {
+        "id": "14",
+        "name": "Abdullah",
+        "age": 24,
+        "course": "Cyber Security"
+    },
+    {
+        "id": "15",
+        "name": "Hira",
+        "age": 22,
+        "course": "Web Development"
+    },
+    {
+        "id": "16",
+        "name": "Sidra",
+        "age": 26,
+        "course": "OOP"
+    }
+]
