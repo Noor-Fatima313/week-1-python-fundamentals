@@ -47,7 +47,7 @@ Terminal → New Terminal
 ### Step 4: Run the Program
 Type the following command in the terminal:
 
-```bash
+bash
 python student_management.py
 
 Alternative Way to Run :
