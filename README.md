@@ -49,6 +49,7 @@ Type the following command in the terminal:
 
 ```bash
 python student_management.py
+
 Alternative Way to Run :
 The project can also be run without manually typing commands in the terminal. In Visual Studio Code, open the `student_management.py` file and press "fn + Ctrl + F5".
 
@@ -89,3 +90,4 @@ While working on this project, I learned:
 
 Conclusion
 This project helped me strengthen my understanding of Python fundamentals and gave me hands-on experience in building a small real-world application. It also improved my confidence in using file handling, functions, and data structures, which are important skills for future learning in Data Science and Machine Learning.
+
