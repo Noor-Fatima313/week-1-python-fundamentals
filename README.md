@@ -50,41 +50,42 @@ Type the following command in the terminal:
 ```bash
 python student_management.py
 Alternative Way to Run :
-The project can also be run without manually typing commands in the terminal. In Visual Studio Code, open the `student_management.py` file and press **Ctrl + F5**.
+The project can also be run without manually typing commands in the terminal. In Visual Studio Code, open the `student_management.py` file and press "fn + Ctrl + F5".
 
-**### Step 5: Use the Menu**
+
+Step 5: Use the Menu
 The program will display a menu with different options such as:
 
-* Add Student
-* View Students
-* Search Student
-* Update Student
-* Delete Student
-* Student Statistics
-* Exit
+ Add Student
+ View Students
+ Search Student
+ Update Student
+ Delete Student
+ Student Statistics
+ Exit
 
 Enter the number of the option you want to use and follow the instructions on the screen.
 
-**## Screenshots**
+Screenshots
 The screenshots folder contains images demonstrating the following features:
 
-* Main Menu
-* Add Student
-* View Students
-* Search Student
-* Update Student
-* Delete Student
+ Main Menu
+ Add Student
+ View Students
+ Search Student
+ Update Student
+ Delete Student
 
 While working on this project, I learned:
-* How to use variables and different data types
-* How to create and call functions
-* How to work with lists and dictionaries
-* How to use loops and conditional statements
-* How to handle user input
-* How to read and write data using JSON files
-* How to use exception handling to prevent program crashes
-* How to organize code in a clean and readable way
-* How to upload and manage projects on GitHub
+ How to use variables and different data types
+ How to create and call functions
+ How to work with lists and dictionaries
+ How to use loops and conditional statements
+ How to handle user input
+ How to read and write data using JSON files
+ How to use exception handling to prevent program crashes
+ How to organize code in a clean and readable way
+ How to upload and manage projects on GitHub
 
-## Conclusion
+Conclusion
 This project helped me strengthen my understanding of Python fundamentals and gave me hands-on experience in building a small real-world application. It also improved my confidence in using file handling, functions, and data structures, which are important skills for future learning in Data Science and Machine Learning.
