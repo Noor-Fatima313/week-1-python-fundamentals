@@ -47,15 +47,14 @@ Terminal → New Terminal
 ### Step 4: Run the Program
 Type the following command in the terminal:
 
-##bash
+## bash
 
 python student_management.py
 
 Alternative Way to Run :
 The project can also be run without manually typing commands in the terminal. In Visual Studio Code, open the `student_management.py` file and press "fn + Ctrl + F5".
 
-
-##Step 5: Use the Menu**
+## Step 5: Use the Menu
 
 The program will display a menu with different options such as:
 
