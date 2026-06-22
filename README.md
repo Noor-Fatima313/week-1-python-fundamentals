@@ -49,10 +49,10 @@ Type the following command in the terminal:
 
 ```bash
 python student_management.py
-### Alternative Way to Run
+Alternative Way to Run :
 The project can also be run without manually typing commands in the terminal. In Visual Studio Code, open the `student_management.py` file and press **Ctrl + F5**.
 
-### Step 5: Use the Menu
+**### Step 5: Use the Menu**
 The program will display a menu with different options such as:
 
 * Add Student
@@ -65,7 +65,7 @@ The program will display a menu with different options such as:
 
 Enter the number of the option you want to use and follow the instructions on the screen.
 
-## Screenshots
+**## Screenshots**
 The screenshots folder contains images demonstrating the following features:
 
 * Main Menu
